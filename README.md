@@ -1,8 +1,7 @@
-# Description
+# <img src="https://github.com/user-attachments/assets/caabfdf0-0f9e-44a3-8200-c6579fe87887" alt="description icon" width="28"> Description
 This project aims to represent an API in C# that includes a CRUD (Create, Read, Update, Delete) divided into endpoints.
 
-
-# Endpoints
+# <img src="https://github.com/user-attachments/assets/cfd74316-835c-4751-8f56-0b0ba0a540c2" alt="C# icon" width="28"> Endpoints
 ## HttpPost - Create
    #### Postman screen
    ![image](https://github.com/user-attachments/assets/0011195d-77cb-47ab-a8d9-a6349c2c7c85)
